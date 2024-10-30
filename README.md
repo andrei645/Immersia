@@ -1,2 +1,6 @@
 # Immersia
-[State of the art (1).docx](https://github.com/user-attachments/files/17559314/State.of.the.art.1.docx)
+
+
+## About Project:
+
+[State of the Art](https://docs.google.com/document/d/1daYQmPUp5W7khI-kakNENqhc2H4rZMTPTxR3YGPxhss/edit?usp=sharing)
