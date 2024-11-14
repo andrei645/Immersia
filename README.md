@@ -8,3 +8,20 @@
 [User Persona ChatGPT Feedback](https://docs.google.com/document/d/1fhRnIJHf9FO5uvG-ordYrJrF0luTD6smcIGwHDwj9Hc/edit?usp=sharing)
 
 [User Stories Map - Main Modules](https://docs.google.com/document/d/1VtEjhzR0Gf__YJypLNjKaamxa0sCNMJu8q6k-LLLhf4/edit?usp=sharing)
+
+
+## Progress:
+
+### Week 7:
+
+- created project
+- created main scene
+- added objects for hands
+- added assets
+- rendered some scenes
+- tested with XR Toolkit
+
+
+### Week 8:
+
+- to add
