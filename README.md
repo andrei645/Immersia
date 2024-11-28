@@ -11,8 +11,11 @@
 [User Stories Map - Main Modules](https://docs.google.com/document/d/1VtEjhzR0Gf__YJypLNjKaamxa0sCNMJu8q6k-LLLhf4/edit?usp=sharing)
 
 [Slides to Add to the Class Presentation](https://docs.google.com/presentation/d/1Fc-TBXx2yLTF_fqQ08O_MnVnXk0FpXKpPR4WWopdMoU/edit?usp=sharing)
-Scene: 
-<img width="848" alt="Screenshot 2024-11-26 at 23 02 01" src="https://github.com/user-attachments/assets/dbd402a1-ffb7-464f-9e57-6705a2eb96b7">
+
+
+## Scene:
+
+<img width = "848" alt = "Scene." src = "https://github.com/user-attachments/assets/dbd402a1-ffb7-464f-9e57-6705a2eb96b7">
 
 
 ## Progress:
