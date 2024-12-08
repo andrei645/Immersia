@@ -47,6 +47,7 @@
 ### Week 10:
 
 - created Figma project for the design of the application and user journey
+- video presentation: the "Laboratory 10" file in the "Video Presentations" folder
 
 
 ### Week 11:
