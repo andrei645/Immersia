@@ -12,7 +12,9 @@
 
 [Slides to Add to the Class Presentation](https://docs.google.com/presentation/d/1Fc-TBXx2yLTF_fqQ08O_MnVnXk0FpXKpPR4WWopdMoU/edit?usp=sharing)
 
-[Figma Application Design](https://www.figma.com/design/OTFQElxM2YYBMSYZ8UhcTa/IMR---Application-Design?node-id=0-1&t=vErXVDbKi6Uxpkzw-1)
+[Figma Application Design and User Journey - Static](https://www.figma.com/design/OTFQElxM2YYBMSYZ8UhcTa/IMR---Application-Design?node-id=0-1&t=vErXVDbKi6Uxpkzw-1)
+
+[Figma Application Design and User Journey - Presentation](https://www.figma.com/proto/OTFQElxM2YYBMSYZ8UhcTa/IMR---Application-Design?node-id=0-1&t=vErXVDbKi6Uxpkzw-1)
 
 
 ## Scene:
@@ -40,3 +42,8 @@
 ### Week 9:
 
 - created slides for the class presentation
+
+
+### Week 10:
+
+- created Figma project for the design of the application and user journey
