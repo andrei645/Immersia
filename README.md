@@ -47,3 +47,8 @@
 ### Week 10:
 
 - created Figma project for the design of the application and user journey
+
+
+### Week 11:
+
+- to add
