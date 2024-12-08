@@ -12,6 +12,8 @@
 
 [Slides to Add to the Class Presentation](https://docs.google.com/presentation/d/1Fc-TBXx2yLTF_fqQ08O_MnVnXk0FpXKpPR4WWopdMoU/edit?usp=sharing)
 
+[Figma Application Design](https://www.figma.com/design/OTFQElxM2YYBMSYZ8UhcTa/IMR---Application-Design?node-id=0-1&t=vErXVDbKi6Uxpkzw-1)
+
 
 ## Scene:
 
