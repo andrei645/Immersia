@@ -52,4 +52,10 @@
 
 ### Week 11:
 
+- imported scene into Unity
+- video presentation: the "Laboratory 11" file in the "Video Presentations" folder
+
+
+### Week 12:
+
 - to add
