@@ -2,7 +2,13 @@
 
 
 
-## About Project:
+## Scene:
+
+<img width = "848" alt = "Scene." src = "https://github.com/user-attachments/assets/dbd402a1-ffb7-464f-9e57-6705a2eb96b7">
+
+
+
+## Useful Links:
 
 [State of the Art](https://docs.google.com/document/d/1daYQmPUp5W7khI-kakNENqhc2H4rZMTPTxR3YGPxhss/edit?usp=sharing)
 
@@ -16,10 +22,9 @@
 
 [Figma Application Design and User Journey - Presentation](https://www.figma.com/proto/OTFQElxM2YYBMSYZ8UhcTa/IMR---Application-Design?node-id=0-1&t=vErXVDbKi6Uxpkzw-1)
 
+[Ready Player Me - Project Settings](https://studio.readyplayer.me/676447aee54db54e5da624a5/applications/676447af53225f45d4a6f99d)
 
-## Scene:
-
-<img width = "848" alt = "Scene." src = "https://github.com/user-attachments/assets/dbd402a1-ffb7-464f-9e57-6705a2eb96b7">
+[Ready Player Me - Subdomain](https://immersia.readyplayer.me/)
 
 
 ## Progress:
