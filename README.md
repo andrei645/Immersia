@@ -58,4 +58,6 @@
 
 ### Week 12:
 
-- to add
+- created Ready Player Me account and project
+- integrated Ready Player Me into the project
+- video presentation: the "Laboratory 12" file in the "Video Presentations" folder
